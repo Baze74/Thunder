@@ -1,0 +1,15 @@
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(71, 3, 71, 0.897);
+    border-radius: 20px;
+    box-shadow: 0 4px 8px gray;
+    padding: 100px;
+}
+
+form {
+    margin-bottom: 30px;
+    background-color: rgba(109, 8, 109, 0.836);
+    border-radius: 10px;
+}
